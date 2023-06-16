@@ -1,7 +1,22 @@
 # IaC Blueprints:-
 
 Greetings to my fellow Technology Advocates and Specialists.
+
 In this Session, I will provide an overview on __IaC - Blueprints__
+
+I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
+
+| __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
+| --------- | --------- |
+| __Cloud Lunch and Learn__ | __Virtual__ |
+
+| __EVENT ANNOUNCEMENTS:-__ |
+| --------- |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wvgh4cxe8ll54cxbwqlm.png) |
+| __VIRTUAL SESSION:-__ |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __CLOUD LUNCH AND LEARN__ Forum/Platform |
+| Duration of My Demo = __44 Mins 21 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BEEHo5M5de0/0.jpg)](https://www.youtube.com/watch?v=BEEHo5M5de0&t=2163s) |
 
 | __AGENDA:-__ |
 | --------- |
